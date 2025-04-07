@@ -30,7 +30,7 @@
 <br>
 
 > How to run the program 💻
-- python.bat 파일 오른쪽 플릭 -> 관리자 권한으로 실행 (Run as administrator)
+- noticebot.bat 파일 오른쪽 클릭 -> 관리자 권한으로 실행 (Run as administrator)
 ```
 $ python [file name] --chatroom [chatroom name] --verbose
 usage: noticeBot.py [-h] [--chatroom CHATROOM] [--verbose]
